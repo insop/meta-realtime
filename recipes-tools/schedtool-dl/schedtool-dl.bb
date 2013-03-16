@@ -5,7 +5,7 @@ LIC_FILES_CHKSUM = "file://Makefile;endline=55;md5=e4b4e8ed9c2132e1d727a1bb5e3bd
 PR = "r1"
 
 SRC_URI = "git://github.com/jlelli/schedtool-dl.git;protocol=git"
-SRCREV = "${AUTOREV}"
+SRCREV = "cd4e3f2f5a33c3266e25e447e8efbacb3b8c88da"
 
 S = "${WORKDIR}/git"
 
